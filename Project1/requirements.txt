@@ -1,0 +1,11 @@
+scikit-learn==1.5.0
+scipy==1.7.3
+umap-learn==0.5.6
+mat_discover==2.2.9
+matbench==0.6
+matbench-genmetrics==0.6.5
+matminer==0.7.4
+hdbscan==0.8.37
+element-coder==0.0.8
+ElM2D==0.4.1
+ElMD==0.4.8
